@@ -1,13 +1,13 @@
 {
   "name": "back-end",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is simple Backend of node js application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vipin Rawat",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
