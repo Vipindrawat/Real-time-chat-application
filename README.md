@@ -1,11 +1,11 @@
-# Real-Time-Chat-Application
+# Astacus
 
 <br>
 <h2>
 Description:
 </h2>
 <p>
-This project is a simple Real-Time-Chat web application using which user can chat with other users.
+This project is a simple Real-Time-Chat web application using which user can interact with other users.
 </p>
 <br>
 <h3>
