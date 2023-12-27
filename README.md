@@ -15,11 +15,11 @@ This project is a simple Real-Time-Chat web application using which user can cha
     <li>Vite(tool).</li>
     <li>React(library).</li>
     <li> Tailwind(css-framework).</li>
-    <li>Node.js</li>
-    <li>Express.js.</li>
-    <li>Mongoose</li>
-    <li>Mongodb</li>
-    <li>socket.io</li>
+    <li>Node.js(JS-runtime)</li>
+    <li>Express.js(node.js-framework)</li>
+    <li>Mongoose(mongodb-driver)</li>
+    <li>Mongodb(database)</li>
+    <li>socket.io(package-uses-websocket)</li>
   </ol>
   <h3>
   Objective:
